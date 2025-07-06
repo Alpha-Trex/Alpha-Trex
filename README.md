@@ -2,7 +2,7 @@
 <h3 align="center">Electronics Enthusiast | ECE Junior at IIT (ISM) Dhanbad</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/gkhgKRvB/pexels-tima-miroshnichenko-6755081.jpg" alt="banner" width="100%" />
+  <img src="https://i.postimg.cc/gkhgKRvB/pexels-tima-miroshnichenko-6755081.jpg" alt="banner" width="100%" height="50" />
 </p>
 
 <p align="center">
