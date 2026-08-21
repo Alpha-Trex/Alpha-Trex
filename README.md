@@ -13,7 +13,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I'm a **3rd-year B.Tech student in Electronics and Communication Engineering** at **IIT (ISM) Dhanbad**
+- 🎓 I'm a **4th-year B.Tech student in Electronics and Communication Engineering** at **IIT (ISM) Dhanbad**
 - 🔬 Interested in **semiconductor devices**, **circuit design**, and **VLSI**
 - ⚙️ Passionate about combining **theory and simulation** in electronics
 - 💡 Currently exploring deeper into **micro and nano fabrication technologies**
